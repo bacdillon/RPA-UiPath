@@ -9,21 +9,21 @@ Reduce redundant activities
 Improve overall performance and reliability.
 
 **Business process to automate** <br>
-1) Login to ACME application
-2) Navigate Invoice search invoices screen
-3) Click display all invoices
-4) Extract all invoice information
-5) Get only Invoice No, Vendor Tax ID, Invoice Date
-6) Store the above 3 values into the orchestrator queue (invoice_details) for further processing
+1) Login to ACME application <br>
+2) Navigate Invoice search invoices screen <br>
+3) Click display all invoices <br>
+4) Extract all invoice information <br>
+5) Get only Invoice No, Vendor Tax ID, Invoice Date <br>
+6) Store the above 3 values into the orchestrator queue (invoice_details) for further processing <br>
 
 **Description of the Project**<br>
-Step Short Description
-1.1 Open the ACME System 1 Web Application
-1.2 Log in to System 1. Required input data: email and password.
-1.3 Access the Dashboard - the central location, where the user can pick a specific menu item.
-1.4 Access the Invoice Items listing to view all the invoices (Display All Invoices)
-1.5 Get only Invoice No, Vendor Tax ID, Invoice Date
-1.6 Store the above 3 values into the orchestrator
+Step Short Description <br>
+1.1 Open the ACME System 1 Web Application <br>
+1.2 Log in to System 1. Required input data: email and password. <br>
+1.3 Access the Dashboard - the central location, where the user can pick a specific menu item.<br>
+1.4 Access the Invoice Items listing to view all the invoices (Display All Invoices) <br>
+1.5 Get only Invoice No, Vendor Tax ID, Invoice Date <br>
+1.6 Store the above 3 values into the orchestrator <br>
 
 **Process Flow Chart**<br>
 
