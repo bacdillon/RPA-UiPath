@@ -10,7 +10,7 @@ Improve overall performance and reliability.
 
 Business process to automate
 1) Login to ACME application
-2) Navigate Invoicesearch invoices screen
+2) Navigate Invoice search invoices screen
 3) Click display all invoices
 4) Extract all invoice information
 5) Get only Invoice No, Vendor Tax ID, Invoice Date
