@@ -17,7 +17,7 @@ Improve overall performance and reliability.
 6) Store the above 3 values into the orchestrator queue (invoice_details) for further processing <br>
 
 **Description of the Project**<br>
-**StepShort Description** <br>
+**Steps    Short Description** <br>
 1.1 Open the ACME System 1 Web Application <br>
 1.2 Log in to System 1. Required input data: email and p assword. <br>
 1.3 Access the Dashboard - the central location, where the user can pick a specific menu item.<br>
