@@ -1,5 +1,5 @@
 ## Alfred Bot - Extract Invoice information & store data in Orchestrator
-Objective
+Objective <br>
 The process has been selected for RPA as part of the larger project initiative conducted within ACME
 Systems Inc., the Finance and Accounting department.
 
@@ -8,7 +8,7 @@ Deliver faster processing
 Reduce redundant activities
 Improve overall performance and reliability.
 
-Business process to automate
+Business process to automate<br>
 1) Login to ACME application
 2) Navigate Invoice search invoices screen
 3) Click display all invoices
@@ -16,7 +16,7 @@ Business process to automate
 5) Get only Invoice No, Vendor Tax ID, Invoice Date
 6) Store the above 3 values into the orchestrator queue (invoice_details) for further processing
 
-Description of the Project
+Description of the Project<br>
 Step Short Description
 1.1 Open the ACME System 1 Web Application
 1.2 Log in to System 1. Required input data: email and password.
@@ -25,7 +25,7 @@ Step Short Description
 1.5 Get only Invoice No, Vendor Tax ID, Invoice Date
 1.6 Store the above 3 values into the orchestrator
 
-Process Flow Chart
+Process Flow Chart<br>
 
 ![alt_text](https://github.com/bacdillon/UiPath/blob/main/ACME%20Invoice-Processing/documents/ACME%20Invoice%20Processing.jpg)
 
