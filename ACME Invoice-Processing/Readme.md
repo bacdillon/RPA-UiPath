@@ -25,7 +25,7 @@ Step Short Description
 1.5 Get only Invoice No, Vendor Tax ID, Invoice Date
 1.6 Store the above 3 values into the orchestrator
 
-![alt_text](https://github.com/bacdillon/UiPath/blob/main/Annual%20Bonus%20Analysis%20Report%20Generate/img/Process%20Flow.jpg)
+![alt_text](https://github.com/bacdillon/UiPath/blob/main/ACME%20Invoice-Processing/documents/ACME%20Invoice%20Processing.jpg)
 
 ![alt_text](https://github.com/bacdillon/UiPath/blob/main/Annual%20Bonus%20Analysis%20Report%20Generate/img/Alfred%20Action.jpg)
 
