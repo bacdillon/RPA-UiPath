@@ -11,4 +11,3 @@
 ![alt_text](https://github.com/bacdillon/UiPath/blob/main/CRM%20Alfred%20Bot/img/Alfred%20Action.jpg)
 
 
-[![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/RPAIPA.jpg)](https://youtu.be/Q4bai4yCoZw)
