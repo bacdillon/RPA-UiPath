@@ -5,7 +5,7 @@ The scenario of how we can use ServiceNow with UiPath. It can be used in fusion 
 ## Watch Alfred in Action - 1. CSM IT Service Request System 👇	
 [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath/blob/main/CRM%20Alfred%20Bot/img/Alfred%20Action.jpg)](https://youtu.be/7A28HLdXn0E)
 
-## Watch Alfred in Action 👇	
+## Watch Alfred in Action - 2 ServiceNow Incident 👇	
 [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath/blob/main/CRM%20Alfred%20Bot/img/Alfred%20Action.jpg)](https://youtu.be/dW5v2IagOM8)
 
 
