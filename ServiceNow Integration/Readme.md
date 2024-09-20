@@ -14,6 +14,7 @@ The scenario of how we can use ServiceNow with UiPath. It can be used in fusion 
 
 - [x] ## Watch Alfred in Action - 1. CSM IT Service Request System (https://youtu.be/7A28HLdXn0E)
 - [x] ## Watch Alfred in Action - 2 ServiceNow Incident (https://youtu.be/dW5v2IagOM8)
-- [x] Chabot Integration [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/ServiceNow%20Integration/img/09.jpg)](https://bacdillon.github.io/Digital-IT-Helpdesk-Support/)
+- [x] Chabot Integration 👇
+- [ ] [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/ServiceNow%20Integration/img/09.jpg)](https://bacdillon.github.io/Digital-IT-Helpdesk-Support/)
 
 
