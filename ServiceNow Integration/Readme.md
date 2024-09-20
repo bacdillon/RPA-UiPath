@@ -12,16 +12,8 @@ The scenario of how we can use ServiceNow with UiPath. It can be used in fusion 
 ## Chabot Integration 👇	
 [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/ServiceNow%20Integration/img/09.jpg)](https://bacdillon.github.io/Digital-IT-Helpdesk-Support/)
 
-- [x] ## Watch Alfred in Action - 2 ServiceNow Incident 👇	
+- [x] ## Watch Alfred in Action - 2 ServiceNow Incident
 - [x] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Add delight to the experience when all tasks are complete :tada:
 
-Here's our logo (hover to see the title text):
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
