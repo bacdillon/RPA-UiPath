@@ -8,7 +8,8 @@ This repository is used to store scripts for practical examples.
 | CAG App Reviews Sentiment Analysis  | List all *new or modified* files |
 |  | Show file differences that **haven't been** staged |
 
-
+## What is RPA?
+![alt_text]([https://github.com/bacdillon/RPA-UiPath/blob/main/ACME%20Invoice-Processing/documents/ACME%20Invoice%20Processing.jpg](https://www.gartner.com/en/information-technology/glossary/robotic-process-automation-rpa))
 
 ## Coding References
 UiPath Forum
