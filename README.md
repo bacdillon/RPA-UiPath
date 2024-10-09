@@ -9,7 +9,8 @@ This repository is used to store scripts for practical examples.
 | CRM Alfred Bot | |
 | Client Enrollment | |
 | Data Driven Testing with form status | Data-driven testing, test workflows and applications across various scenarios. Ensure test cases use the prepared test data, debug and run data-driven test cases only from the Test Explorer panel. |
-| Helpdesk Agent Attended Automation | |
+| Helpdesk Agent Attended Automation | The process will automate the creation of help desk tickets using data from an Excel sheet.
+Once the bot is invoked, it will check whether there are new request files available to process. If available, the bot will read the ticket data from the spreadsheet. The data is used to create support tickets in the Zoho Desk application. |
 | ServiceNow Integration | The scenario of how we can use ServiceNow with UiPath. It can be used in fusion with RPA (Robotic Process Automation) to bring many business benefits like integrating heterogeneous platforms through unified workflows, and automatically resolving incidents and IT and non-IT requests.|
 
 ## Coding References
