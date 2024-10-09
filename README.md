@@ -20,9 +20,9 @@ This repository is used to store scripts for practical examples.
 - [Software automation practice website!](https://practice-automation.com/)
 - [Top Websites for Practicing Test Automation Skills](https://medium.com/@ayhanmet/top-websites-for-practicing-test-automation-skills-4f8cb1a27d14)
 
-## MY Activites <br>
+## MY Activites
 
-- [MY Activities](https://github.com/bacdillon/MY-activities)
+- [MY Activities](https://github.com/bacdillon/MY-activities) <br>
 [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/MY-activities/blob/main/img/main%20page.jpg)](https://bacdillon.github.io/MY-activities/index.html)
 <!---
 - [x] #739
