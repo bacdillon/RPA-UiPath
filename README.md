@@ -9,7 +9,7 @@ This repository is used to store scripts for practical examples.
 |  | Show file differences that **haven't been** staged |
 
 ## What is RPA?
-[a link](https://www.gartner.com/en/information-technology/glossary/robotic-process-automation-rpa)
+[What is RPA?](https://www.gartner.com/en/information-technology/glossary/robotic-process-automation-rpa)
 
 ![alt_text](https://www.gartner.com/en/information-technology/glossary/robotic-process-automation-rpa)
 
