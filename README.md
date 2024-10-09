@@ -1,3 +1,6 @@
+# RPA UiPath
+A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
+
 | Command | Description |
 | --- | --- |
 | `ACME Invoice-Processing` | Alfred Bot - Extract Invoice information & store data in Orchestrator |
@@ -5,7 +8,7 @@
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
 
-# Example headings
+
 
 ## Sample Section
 
