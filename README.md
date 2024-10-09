@@ -1,7 +1,7 @@
 # RPA UiPath Practical Examples
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
+This repository is used to store scripts for practical examples.
 
-| Command | Description |
+| Project Name | Description |
 | --- | --- |
 | ACME Invoice-Processing | Alfred Bot - Extract Invoice information & store data in Orchestrator |
 | `git diff` | Show file differences that **haven't been** staged |
@@ -13,18 +13,7 @@ A heading containing characters not allowed in fragments, UTF-8 characters, two 
 ## Coding References
 UiPath Forum
 
-## This'll  be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
 
-## This heading is not unique in the file
-
-TEXT 1
-
-## This heading is not unique in the file
-
-TEXT 2
-
-# Links to the example headings above
 
 Link to the sample section: [Link Text](#sample-section).
 
