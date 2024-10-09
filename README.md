@@ -3,7 +3,7 @@ A heading containing characters not allowed in fragments, UTF-8 characters, two 
 
 | Command | Description |
 | --- | --- |
-| `ACME Invoice-Processing` | Alfred Bot - Extract Invoice information & store data in Orchestrator |
+| ACME Invoice-Processing | Alfred Bot - Extract Invoice information & store data in Orchestrator |
 | `git diff` | Show file differences that **haven't been** staged |
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
