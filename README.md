@@ -13,8 +13,8 @@ This repository is used to store scripts for practical examples.
 
 
 ## Coding References
-[UiPath Forum](https://forum.uipath.com/)
-
+- [UiPath Forum](https://forum.uipath.com/)
+- [Cron Expression Generator & Explainer](https://www.freeformatter.com/cron-expression-generator-quartz.html)
 
 
 <!---
