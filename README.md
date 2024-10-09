@@ -10,7 +10,8 @@ A heading containing characters not allowed in fragments, UTF-8 characters, two 
 
 
 
-## Sample Section
+## Coding References
+UiPath Forum
 
 ## This'll  be a _Helpful_ Section About the Greek Letter Θ!
 A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
@@ -34,16 +35,7 @@ Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
 
 - [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [x] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-# Section Heading
 
-Some body text of this section.
-
-<a name="my-custom-anchor-point"></a>
-Some text I want to provide a direct link to, but which doesn't have its own heading.
-
-(… more content…)
-
-[A link to that custom anchor](#my-custom-anchor-point)
