@@ -11,11 +11,9 @@ This repository is used to store scripts for practical examples.
 ## What is RPA?
 [What is RPA?](https://www.gartner.com/en/information-technology/glossary/robotic-process-automation-rpa)
 
-![alt_text](https://www.gartner.com/en/information-technology/glossary/robotic-process-automation-rpa)
 
 ## Coding References
-UiPath Forum
-
+[UiPath Forum](https://www.gartner.com/en/information-technology/glossary/robotic-process-automation-rpa)
 
 
 Link to the sample section: [Link Text](#sample-section).
@@ -25,9 +23,9 @@ Link to the helpful section: [Link Text](#thisll--be-a-helpful-section-about-the
 Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
-
+<!---
 - [x] #739
 - [x] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
-
+-->
 
