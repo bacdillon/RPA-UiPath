@@ -4,7 +4,7 @@ This repository is used to store scripts for practical examples.
 | **Project Name** | **Description** |
 | --- | --- |
 | ACME Invoice-Processing | The process has been selected for RPA as part of the larger project initiative conducted within ACME Systems Inc,.the Finance and Accounting department. The objective of this process automation is linked to the project business case and is mainly intended to: Deliver faster processing Reduce redundant activities Improve overall performance and reliability.|
-| Annual Bonus Analysis Report Generate | The process is to automate trigger Data Visualzation report, follow by MS Word & Powerpoint customize template, generate the Yearly Report FOR Annual Bonus Analysis and send over the final report and notify to the owner the tasks has completed.  |
+| Annual Bonus Analysis Report Generate | The process is to offered flexibility to execute reports when needed. The bots can be triggered either on-demand or can be scheduled to generate the reports automatically. The solution is capable of linking multiple data sources to generate reports seamlessly and notify to the owner the tasks has completed.  |
 | CAG App Reviews Sentiment Analysis  | It’s humanly impossible to manually go through each online review, assign an accurate sentiment score for each, and determine the overall sentiment reviews. The script will assign a score based on that key phrase to help determine whether the surrounding sentiment is positive, negative, or neutral. |
 | CRM Alfred Bot | |
 | Client Enrollment | |
