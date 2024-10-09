@@ -5,7 +5,7 @@ This repository is used to store scripts for practical examples.
 | --- | --- |
 | ACME Invoice-Processing | **Alfred Bot** - Extract Invoice information & store data in Orchestrator |
 | Annual Bonus Analysis Report Generate |  |
-| CAG App Reviews Sentiment Analysis  | List all *new or modified* files |
+| CAG App Reviews Sentiment Analysis  | |
 | CRM Alfred Bot | |
 | Client Enrollment | |
 | Data Driven Testing with form status |  |
@@ -21,7 +21,7 @@ This repository is used to store scripts for practical examples.
 - [Cron Expression Generator & Explainer](https://www.freeformatter.com/cron-expression-generator-quartz.html)
 - [Visual Basic documentation](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 - [Unicode Regular Expressions](https://www.regular-expressions.info/unicode.html)
-- 
+
 <!---
 - [x] #739
 - [x] https://github.com/octo-org/octo-repo/issues/740
