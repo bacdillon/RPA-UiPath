@@ -7,10 +7,10 @@ This repository is used to store scripts for practical examples.
 | Annual Bonus Analysis Report Generate |  |
 | CAG App Reviews Sentiment Analysis  | List all *new or modified* files |
 | CRM Alfred Bot | |
-| ACME Invoice-Processing | **Alfred Bot** - Extract Invoice information & store data in Orchestrator |
-| Annual Bonus Analysis Report Generate |  |
-| CAG App Reviews Sentiment Analysis  | List all *new or modified* files |
-| CRM Alfred Bot | |
+| Client Enrollment | |
+| Data Driven Testing with form status |  |
+| Helpdesk Agent Attended Automation | |
+| ServiceNow Integration | |
 
 ## What is RPA?
 [What is RPA?](https://www.gartner.com/en/information-technology/glossary/robotic-process-automation-rpa)
