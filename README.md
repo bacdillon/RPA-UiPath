@@ -16,7 +16,8 @@ This repository is used to store scripts for practical examples.
 - [UiPath Forum](https://forum.uipath.com/)
 - [Cron Expression Generator & Explainer](https://www.freeformatter.com/cron-expression-generator-quartz.html)
 - [Visual Basic documentation](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
-
+- [Unicode Regular Expressions](https://www.regular-expressions.info/unicode.html)
+- 
 <!---
 - [x] #739
 - [x] https://github.com/octo-org/octo-repo/issues/740
