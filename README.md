@@ -10,7 +10,7 @@ This repository is used to store scripts for practical examples.
 | Client Enrollment | |
 | Data Driven Testing with form status | Data-driven testing, test workflows and applications across various scenarios. Ensure test cases use the prepared test data, debug and run data-driven test cases only from the Test Explorer panel. |
 | Helpdesk Agent Attended Automation | |
-| ServiceNow Integration | |
+| ServiceNow Integration | The scenario of how we can use ServiceNow with UiPath. It can be used in fusion with RPA (Robotic Process Automation) to bring many business benefits like integrating heterogeneous platforms through unified workflows, and automatically resolving incidents and IT and non-IT requests.|
 
 ## Coding References
 - [UiPath Forum](https://forum.uipath.com/)
