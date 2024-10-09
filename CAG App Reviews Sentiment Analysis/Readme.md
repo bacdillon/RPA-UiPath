@@ -1,6 +1,6 @@
 ## CAG App Reviews Sentiment Analysis
 **Objective** <br>
-It’s humanly impossible to manually go through each online <a href="https://www.changiairport.com/en/changi-app.html">application</a>review, assign an accurate sentiment score for each, and determine the overall sentiment for the application. <br><br>
+It’s humanly impossible to manually go through each online review, assign an accurate sentiment score for each, and determine the overall sentiment for the <a href="https://www.changiairport.com/en/changi-app.html">Changi Application</a>. <br><br>
 The application will assign a score based on that key phrase to help determine whether the surrounding sentiment is positive, negative, or neutral. 
 
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/CAG%20Apps%20Reviews%20and%20Rating.jpg)
