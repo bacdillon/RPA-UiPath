@@ -5,8 +5,8 @@ This repository is used to store scripts for practical examples.
 | --- | --- |
 | ACME Invoice-Processing | Alfred Bot - Extract Invoice information & store data in Orchestrator |
 | `git diff` | Show file differences that **haven't been** staged |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| CAG App Reviews Sentiment Analysis  | List all *new or modified* files |
+|  | Show file differences that **haven't been** staged |
 
 
 
