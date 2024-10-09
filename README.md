@@ -15,7 +15,7 @@ This repository is used to store scripts for practical examples.
 ## Coding References
 - [UiPath Forum](https://forum.uipath.com/)
 - [Cron Expression Generator & Explainer](https://www.freeformatter.com/cron-expression-generator-quartz.html)
-- [Visual Basic documentation](https://learn.microsoft.com/en-us/dotnet/visual-basic/l)
+- [Visual Basic documentation](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
 <!---
 - [x] #739
