@@ -21,6 +21,8 @@ This repository is used to store scripts for practical examples.
 - [Cron Expression Generator & Explainer](https://www.freeformatter.com/cron-expression-generator-quartz.html)
 - [Visual Basic documentation](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 - [Unicode Regular Expressions](https://www.regular-expressions.info/unicode.html)
+- [software automation practice website!](https://practice-automation.com/)
+- 
 
 <!---
 - [x] #739
