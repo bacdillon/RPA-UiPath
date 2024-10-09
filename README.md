@@ -1,8 +1,12 @@
 # RPA UiPath Practical Examples
 This repository is used to store scripts for practical examples.
 
-| Project Name | Description |
+| **Project Name** | **Description** |
 | --- | --- |
+| ACME Invoice-Processing | **Alfred Bot** - Extract Invoice information & store data in Orchestrator |
+| Annual Bonus Analysis Report Generate |  |
+| CAG App Reviews Sentiment Analysis  | List all *new or modified* files |
+| CRM Alfred Bot | |
 | ACME Invoice-Processing | **Alfred Bot** - Extract Invoice information & store data in Orchestrator |
 | Annual Bonus Analysis Report Generate |  |
 | CAG App Reviews Sentiment Analysis  | List all *new or modified* files |
