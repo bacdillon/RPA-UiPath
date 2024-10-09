@@ -1,4 +1,4 @@
-# RPA UiPath
+# RPA UiPath Practical Examples
 A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
 
 | Command | Description |
