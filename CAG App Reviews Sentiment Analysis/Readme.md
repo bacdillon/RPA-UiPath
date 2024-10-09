@@ -1,7 +1,6 @@
 ## CAG App Reviews Sentiment Analysis
 **Objective** <br>
-The process has been selected for RPA as part of the larger project initiative conducted within ACME
-Systems Inc., the Finance and Accounting department.
+It’s humanly impossible to manually go through each online review, assign an accurate sentiment score for each, and determine the overall sentiment for the product.
 
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/CAG%20Apps%20Reviews%20and%20Rating.jpg)
 
