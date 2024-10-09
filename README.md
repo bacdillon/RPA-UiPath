@@ -8,7 +8,7 @@ This repository is used to store scripts for practical examples.
 | CAG App Reviews Sentiment Analysis  | |
 | CRM Alfred Bot | |
 | Client Enrollment | |
-| Data Driven Testing with form status |  |
+| Data Driven Testing with form status | Data-driven testing, test workflows and applications across various scenarios. Ensure test cases use the prepared test data, debug and run data-driven test cases only from the Test Explorer panel. |
 | Helpdesk Agent Attended Automation | |
 | ServiceNow Integration | |
 
