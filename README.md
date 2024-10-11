@@ -1,4 +1,4 @@
-# RPA UiPath Practical Examples
+<!--- # RPA UiPath Practical Examples --->
 This repository is used to store scripts for practical examples.
 
 | **Project Name** | **Description** |
