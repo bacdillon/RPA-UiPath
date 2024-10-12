@@ -9,4 +9,8 @@
 4. **Enabling Personalized Customer Experiences** RPA can also enhance personalization in customer interactions by analyzing customer behavior, preferences, and history. The integration of RPA with CRM enables businesses to deliver personalized recommendations, offers, and communications in real time. This level of personalization strengthens customer loyalty and enhances overall satisfaction
 
 ## Client Enrollment. Watch Alfred in Action 👇	
+![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/CRM%20Alfred%20Bot/img/UIPATH-Alfred-Bot.gif)
+
+<!--
 [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/CRM%20Alfred%20Bot/img/Alfred%20Action.jpg)](https://youtu.be/EQTmXlENjW8)
+-->
