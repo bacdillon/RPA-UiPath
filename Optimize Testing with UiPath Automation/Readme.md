@@ -9,6 +9,6 @@ Test automation is the process of executing test cases automatically using softw
 | Selenium is not compatible with virtual environments like Citrix | UiPath has the capability to automate in virtual environments like Citrix |
 
 ## References
-https://docs.uipath.com/test-suite
-https://forum.uipath.com/
-https://docs.uipath.com/studio/docs/rpa-testing
+https://docs.uipath.com/test-suite <br>
+https://forum.uipath.com/ <br>
+https://docs.uipath.com/studio/docs/rpa-testing <br>
