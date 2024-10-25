@@ -1,5 +1,5 @@
 ## This is a simple Test Case 
-Verify that user is able to login successfully into the ACME System 1 web application by entering validate credential. 
+Verify that user is able to login successfully into the ACME System 1 web application by entering valid credential. 
 
 This how to perform the execution of the test cases in the UiPath. This can also publish the same project in the Orchestrator or Test Manager (a web application that allows to easily manage testing processes. This application is hosted by the Test Management Hub) and from the above steps create the test sets and schedule the executions from their just like the other activities such as Test Data Queues.
 
