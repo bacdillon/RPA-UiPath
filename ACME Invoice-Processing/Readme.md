@@ -30,7 +30,7 @@ Improve overall performance and reliability.
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/ACME%20Invoice-Processing/documents/ACME%20Invoice%20Processing.jpg)
 
 ## Watch Alfred in Action 👇	
-[![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/ACME%20Invoice-Processing/documents/UiPath-Processing-Invoice.gif)]
+![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/ACME%20Invoice-Processing/documents/UiPath-Processing-Invoice.gif)
 
 
 
