@@ -14,7 +14,7 @@ Once the bot is invoked, it will check whether there are new request files avail
 5. Work out with Re-framework to improved error handling, better transaction management and enhanced logging capabilities. This is to standardized approach automation, make it easier to scale and maintain RPA solutions
 
 ## Watch Alfred in Action 👇	
-[![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/Helpdesk%20Agent%20Attended%20Automation/img/Helpdesk-Agent-Attended-Automation.gif)
+![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/Helpdesk%20Agent%20Attended%20Automation/img/Helpdesk-Agent-Attended-Automation.gif)
 
 <!--
 [![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/CRM%20Alfred%20Bot/img/Alfred%20Action.jpg)](https://youtu.be/alLasPiRb-k)
