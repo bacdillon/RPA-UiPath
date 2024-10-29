@@ -16,7 +16,7 @@ Package modification: [https://www.youtube.com/watch?v=US93fOciNDA](https://www.
 ## Some tools to capture traffic and interactions of a basic RPA Bot:
 - Burp Suite proxy: https://portswigger.net/burp
 - ProcMon: [https://docs.microsoft.com/en-us/sysinternals/downloads/procmon](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
-- Wireshark https://www.wireshark.org/ and TShark https://www.wireshark.org/docs/man-pages/tshark.html
+- Wireshark https://www.wireshark.org/ 
 
 ## Common bugs can find
 0-day vulnerabilities
