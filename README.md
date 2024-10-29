@@ -15,6 +15,7 @@ This repository is used to store scripts for practical examples.
 
 ## Coding References
 - [UiPath Forum](https://forum.uipath.com/)
+- [Best Practices for IT Compliant RPA Implementation](https://www.uipath.com/resources/automation-whitepapers/information-technology-compliant-rpa-implementation)
 - [Cron Expression Generator & Explainer](https://www.freeformatter.com/cron-expression-generator-quartz.html)
 - [Visual Basic documentation](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 - [Regex Storm](http://regexstorm.net/)
