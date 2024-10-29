@@ -10,7 +10,8 @@ This repository is used to store scripts for practical examples.
 | Client Enrollment | The objectives is to : <br> 1. Enhancing Data Accuracy and Quality <br> 2. Boosting Operational Efficiency <br> ...|
 | Helpdesk Agent Attended Automation | The process will automate the creation of help desk tickets using data from an Excel sheet.Once the bot is invoked, it will check whether there are new request files available to process. If available, the bot will read the ticket data from the spreadsheet. The data is used to create support tickets in the Zoho Desk application. |
 | Optimize Testing with UiPath Automation | Test automation is the process of executing test cases automatically using software tools. In automation testing, the goal is to reduce the time and effort required for manual testing to increase the effectiveness and efficiency of the testing process. Many types of testing activities can be automated, including functional testing, regression testing, and performance testing. |
-|RPA Security: Safeguarding Your Digital Workforce |
+|RPA Security: Safeguarding Your Digital Workforce | How test the securiy of an RPA Bot?
+References about RPA Pentesting  Basic tools Common bugs you can find
 | ServiceNow Integration | The scenario of how we can use ServiceNow with UiPath. It can be used in fusion with RPA (Robotic Process Automation) to bring many business benefits like integrating heterogeneous platforms through unified workflows, and automatically resolving incidents and IT and non-IT requests.|
 
 ## Coding References
