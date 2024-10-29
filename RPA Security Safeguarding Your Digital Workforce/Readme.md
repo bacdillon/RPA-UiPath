@@ -2,11 +2,28 @@
 ## How test the securiy of an RPA Bot?
 - API Interfaces
 - Web Apps
-Debugging or inspection of binary files
-Different system OS
-Cloud Platforms
-Manual Source Code Review (XML, Go, SQL, Python, Java and many other languages)
-Please, take the security course of UiPath: https://academy.uipath.com/learningpath/uipath-security
-I recommend experience in security research... Pay attention to 0-day bugs and registered CVEs!
-Experience in other pentesting categories. An RPA Bot can replace a lot of human activities.
-Develop and deployment of RPA Bots, of course, is a plus!
+- Debugging or inspection of binary files
+- Different system OS
+- Cloud Platforms
+- Manual Source Code Review (XML, Go, SQL, Python, Java and many other languages)
+- 0-day bugs and registered CVEs!
+
+## References about RPA Pentesting
+Some type of specific attacks based on UiPath:
+Research process: [https://www.youtube.com/watch?v=OiryDE4aH9A](https://www.youtube.com/watch?v=OiryDE4aH9A)
+Package modification: [https://www.youtube.com/watch?v=US93fOciNDA](https://www.youtube.com/watch?v=US93fOciNDA)
+
+## Some tools to capture traffic and interactions of a basic RPA Bot:
+- Burp Suite proxy: https://portswigger.net/burp
+- ProcMon: [https://docs.microsoft.com/en-us/sysinternals/downloads/procmon](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
+- Wireshark https://www.wireshark.org/ and TShark https://www.wireshark.org/docs/man-pages/tshark.html
+
+## Common bugs can find
+0-day vulnerabilities
+Identification of registered CVEs
+API security issues
+Web based bugs
+DLL Injection attacks
+Tampering or package modification
+Critical security misconfigurations
+Of course, all categories of OWASP Top 10
