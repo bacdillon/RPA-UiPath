@@ -19,11 +19,11 @@ Package modification: [https://www.youtube.com/watch?v=US93fOciNDA](https://www.
 - Wireshark https://www.wireshark.org/ 
 
 ## Common bugs can find
-0-day vulnerabilities 
-Identification of registered CVEs 
-API security issues
-Web based bugs
-DLL Injection attacks
-Tampering or package modification
-Critical security misconfigurations
-Of course, all categories of OWASP Top 10
+- 0-day vulnerabilities 
+- Identification of registered CVEs 
+- API security issues
+- Web based bugs
+- DLL Injection attacks
+- Tampering or package modification
+- Critical security misconfigurations
+
