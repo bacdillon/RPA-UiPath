@@ -13,12 +13,12 @@ Some type of specific attacks based on UiPath:<br>
 Research process: [https://www.youtube.com/watch?v=OiryDE4aH9A](https://www.youtube.com/watch?v=OiryDE4aH9A)<br>
 Package modification: [https://www.youtube.com/watch?v=US93fOciNDA](https://www.youtube.com/watch?v=US93fOciNDA)
 
-## Some tools to capture traffic and interactions of a basic RPA Bot:
+### Some tools to capture traffic and interactions of a basic RPA Bot:
 - Burp Suite proxy: https://portswigger.net/burp
 - ProcMon: [https://docs.microsoft.com/en-us/sysinternals/downloads/procmon](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
 - Wireshark https://www.wireshark.org/ 
 
-## Common bugs can find
+### Common bugs can find
 - 0-day vulnerabilities 
 - Identification of registered CVEs 
 - API security issues
