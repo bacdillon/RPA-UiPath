@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital IT Helpdesk Support</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Floating Chat Button */
+        .chat-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 0;
+        }
+        .chat-button img {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Chat Window */
+        .chat-window {
+            position: fixed;
+            bottom: 80px;
+            right: 20px;
+            width: 300px;
+            height: 400px;
+            background: white;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: none;
+            flex-direction: column;
+        }
+
+        .chat-header {
+            background: #007bff;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        .chat-body {
+            flex: 1;
+            padding: 10px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="hero-content">
+                <h1>Digital IT Helpdesk Support</h1>
+                <p>Assist you in checking IT helpdesk tickets and providing knowledge-based solutions.</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Chat Window -->
+    <div class="chat-window" id="chatWindow">
+        <div class="chat-header">Digital IT Helpdesk Support</div>
+        <div class="chat-body" id="webchat"></div>
+    </div>
+
+    <!-- Chat Button -->
+    <button class="chat-button" onclick="toggleChat()">
+        <img src="./img/image.png" alt="Chat Assistant">
+    </button>
+
+    <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
+    <script>
+        function toggleChat() {
+            var chatWindow = document.getElementById("chatWindow");
+            if (chatWindow.style.display === "none" || chatWindow.style.display === "") {
+                chatWindow.style.display = "flex";
+                initializeWebChat();
+            } else {
+                chatWindow.style.display = "none";
+            }
+        }
+
+        async function initializeWebChat() {
+            const styleOptions = {
+                accent: '#00809d',
+                botAvatarBackgroundColor: '#FFFFFF',
+                botAvatarInitials: 'BT',
+                botAvatarImage: './img/Digital Assistant.jpg'
+            };
+
+            const tokenEndpointURL = new URL('https://default334943afdc2e4df99fbb8c95a67d78.51.environment.api.powerplatform.com/powervirtualagents/botsbyschema/cr5e0_itHelpdeskTicketAssistant/directline/token?api-version=2022-03-01-preview');
+            const locale = document.documentElement.lang || 'en';
+            const apiVersion = tokenEndpointURL.searchParams.get('api-version');
+
+            const [directLineURL, token] = await Promise.all([
+                fetch(new URL(`/powervirtualagents/regionalchannelsettings?api-version=${apiVersion}`, tokenEndpointURL))
+                    .then(response => response.json())
+                    .then(({ channelUrlsById: { directline } }) => directline),
+                fetch(tokenEndpointURL)
+                    .then(response => response.json())
+                    .then(({ token }) => token)
+            ]);
+
+            const directLine = WebChat.createDirectLine({ domain: new URL('v3/directline', directLineURL), token });
+
+            const subscription = directLine.connectionStatus$.subscribe({
+                next(value) {
+                    if (value === 2) {
+                        directLine.postActivity({
+                            localTimezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+                            locale,
+                            name: 'startConversation',
+                            type: 'event'
+                        }).subscribe();
+                        subscription.unsubscribe();
+                    }
+                }
+            });
+
+            WebChat.renderWebChat({ directLine, locale, styleOptions }, document.getElementById('webchat'));
+        }
+    </script>
+</body>
+</html>
