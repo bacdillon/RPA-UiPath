@@ -14,9 +14,9 @@ It’s humanly impossible to manually go through each online review, assign an a
 <pre>Slightly Positive: 1 to 33</pre>
 <pre>Positive: 34 to 66</pre>
 <pre>Very Positive: 67 to 99</pre>
-Sentiment Breakdown - Counts of positive, negative, neutral, and total statements.<br>
-## Confidence Level - The overall confidence level of the analysis.<br>
-## Key Phrases - A string of key phrases identified in the sentiment analysis.<br>
+<B>Sentiment Breakdown - Counts of positive, negative, neutral, and total statements.</B>
+<b>Confidence Level - The overall confidence level of the analysis.</b>
+<b>Key Phrases - A string of key phrases identified in the sentiment analysis.</b><br>
 ## Analysis - Detailed explanation of the sentiment analysis.<br>
 ## Undertones - Subtle undertones detected in the text with their impact.<br>
 ## Sentiment Analysis - Automatically generated output variable.<br>
