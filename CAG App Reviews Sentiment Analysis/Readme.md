@@ -8,12 +8,12 @@ It’s humanly impossible to manually go through each online review, assign an a
 ## Properties Output <br>
 Overall Sentiment - Contains the sentiment score and label:<br>
 <pre>Very Negative: -99 to -67</pre><br>
- <pre>Negative: -66 to -34<br>
- <pre>Slightly Negative: -33 to -1<br>
-<pre> Neutral: 0<br>
-<pre> Slightly Positive: 1 to 33<br>
-<pre> Positive: 34 to 66<br>
-<pre> Very Positive: 67 to 99<br>
+<pre>Negative: -66 to -34</pre><br>
+<pre>Slightly Negative: -33 to -1</pre><br>
+<pre>Neutral: 0</pre><br>
+<pre>Slightly Positive: 1 to 33</pre><br>
+<pre>Positive: 34 to 66</pre><br>
+<pre>Very Positive: 67 to 99</pre><br>
 Sentiment Breakdown - Counts of positive, negative, neutral, and total statements.<br>
 Confidence Level - The overall confidence level of the analysis.<br>
 Key Phrases - A string of key phrases identified in the sentiment analysis.<br>
