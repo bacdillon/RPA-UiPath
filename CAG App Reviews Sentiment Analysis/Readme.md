@@ -4,6 +4,7 @@ It’s humanly impossible to manually go through each online review, assign an a
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/CAG%20Apps%20Reviews%20and%20Rating.jpg)
 
 ## CAG App Reviews Sentiment Analysis using GenAI Sentiment Analysis
+![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/GenAI%20Sentiment%20Analysis.jpg)
 
 ## CAG App Reviews Sentiment Analysis using Sentiment Analysis Model From UiPath AI Center
 The application will assign a score based on that key phrase to help determine whether the surrounding sentiment is positive, negative, or neutral. 
