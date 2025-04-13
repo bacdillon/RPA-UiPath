@@ -6,7 +6,7 @@ It’s humanly impossible to manually go through each online review, assign an a
 ## CAG App Reviews Sentiment Analysis using GenAI Sentiment Analysis
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/GenAI%20Sentiment%20Analysis.jpg)
 ## Properties Output <br>
-## <pre>verall Sentiment - Contains the sentiment score and label:</pre>
+## Overall Sentiment - Contains the sentiment score and label:
 <pre>Very Negative: -99 to -67</pre>
 <pre>Negative: -66 to -34</pre>
 <pre>Slightly Negative: -33 to -1</pre>
@@ -14,12 +14,12 @@ It’s humanly impossible to manually go through each online review, assign an a
 <pre>Slightly Positive: 1 to 33</pre>
 <pre>Positive: 34 to 66</pre>
 <pre>Very Positive: 67 to 99</pre>
-Sentiment Breakdown - Counts of positive, negative, neutral, and total statements.<br>
-Confidence Level - The overall confidence level of the analysis.<br>
-Key Phrases - A string of key phrases identified in the sentiment analysis.<br>
-Analysis - Detailed explanation of the sentiment analysis.<br>
-Undertones - Subtle undertones detected in the text with their impact.<br>
-Sentiment Analysis - Automatically generated output variable.<br>
+## Sentiment Breakdown - Counts of positive, negative, neutral, and total statements.<br>
+## Confidence Level - The overall confidence level of the analysis.<br>
+## Key Phrases - A string of key phrases identified in the sentiment analysis.<br>
+## Analysis - Detailed explanation of the sentiment analysis.<br>
+## Undertones - Subtle undertones detected in the text with their impact.<br>
+## Sentiment Analysis - Automatically generated output variable.<br>
 <a href="https://docs.uipath.com/activities/other/latest/integration-service/uipath-airdk-airdk-sentiment-analysis">Documentation</a>
 
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/cag_reviews.jpg)
