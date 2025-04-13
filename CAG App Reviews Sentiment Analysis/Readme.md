@@ -7,7 +7,7 @@ It’s humanly impossible to manually go through each online review, assign an a
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/GenAI%20Sentiment%20Analysis.jpg)
 ## Properties Output <br>
 Overall Sentiment - Contains the sentiment score and label:<br>
-<pre>Very Negative: -99 to -67<br>
+<pre>Very Negative: -99 to -67</pre><br>
  <pre>Negative: -66 to -34<br>
  <pre>Slightly Negative: -33 to -1<br>
 <pre> Neutral: 0<br>
