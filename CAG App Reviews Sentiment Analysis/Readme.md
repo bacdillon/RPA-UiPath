@@ -7,13 +7,13 @@ It’s humanly impossible to manually go through each online review, assign an a
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/GenAI%20Sentiment%20Analysis.jpg)
 ## Properties Output <br>
 Overall Sentiment - Contains the sentiment score and label:<br>
- Very Negative: -99 to -67<br>
- Negative: -66 to -34<br>
- Slightly Negative: -33 to -1<br>
- Neutral: 0<br>
- Slightly Positive: 1 to 33<br>
- Positive: 34 to 66<br>
- Very Positive: 67 to 99<br>
+<pre>Very Negative: -99 to -67<br>
+ <pre>Negative: -66 to -34<br>
+ <pre>Slightly Negative: -33 to -1<br>
+<pre> Neutral: 0<br>
+<pre> Slightly Positive: 1 to 33<br>
+<pre> Positive: 34 to 66<br>
+<pre> Very Positive: 67 to 99<br>
 Sentiment Breakdown - Counts of positive, negative, neutral, and total statements.<br>
 Confidence Level - The overall confidence level of the analysis.<br>
 Key Phrases - A string of key phrases identified in the sentiment analysis.<br>
