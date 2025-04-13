@@ -20,8 +20,7 @@ Key Phrases - A string of key phrases identified in the sentiment analysis.<br>
 Analysis - Detailed explanation of the sentiment analysis.<br>
 Undertones - Subtle undertones detected in the text with their impact.<br>
 Sentiment Analysis - Automatically generated output variable.<br>
-
-![alt_text](https://docs.uipath.com/activities/other/latest/integration-service/uipath-airdk-airdk-sentiment-analysis)
+Documentation: <a href="https://docs.uipath.com/activities/other/latest/integration-service/uipath-airdk-airdk-sentiment-analysis">
 
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/cag_reviews.jpg)
 ## CAG App Reviews Sentiment Analysis using Sentiment Analysis Model From UiPath AI Center
