@@ -14,12 +14,12 @@ It’s humanly impossible to manually go through each online review, assign an a
 <pre>Slightly Positive: 1 to 33</pre>
 <pre>Positive: 34 to 66</pre>
 <pre>Very Positive: 67 to 99</pre>
-<B>Sentiment Breakdown - Counts of positive, negative, neutral, and total statements.</B>
-<b>Confidence Level - The overall confidence level of the analysis.</b>
+<B>Sentiment Breakdown - Counts of positive, negative, neutral, and total statements.</B><br>
+<b>Confidence Level - The overall confidence level of the analysis.</b><br>
 <b>Key Phrases - A string of key phrases identified in the sentiment analysis.</b><br>
-## Analysis - Detailed explanation of the sentiment analysis.<br>
-## Undertones - Subtle undertones detected in the text with their impact.<br>
-## Sentiment Analysis - Automatically generated output variable.<br>
+<b>Analysis - Detailed explanation of the sentiment analysis.</b><br>
+<b>Undertones - Subtle undertones detected in the text with their impact.</b><br>
+<b>Sentiment Analysis - Automatically generated output variable.</b><br>
 <a href="https://docs.uipath.com/activities/other/latest/integration-service/uipath-airdk-airdk-sentiment-analysis">Documentation</a>
 
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/cag_reviews.jpg)
