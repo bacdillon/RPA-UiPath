@@ -21,7 +21,7 @@ Analysis - Detailed explanation of the sentiment analysis.<br>
 Undertones - Subtle undertones detected in the text with their impact.<br>
 Sentiment Analysis - Automatically generated output variable.<br>
 Documentation - ![alt_text](https://docs.uipath.com/activities/other/latest/integration-service/uipath-airdk-airdk-sentiment-analysis)
-
+<br>
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/cag_reviews.jpg)
 ## CAG App Reviews Sentiment Analysis using Sentiment Analysis Model From UiPath AI Center
 The application will assign a score based on that key phrase to help determine whether the surrounding sentiment is positive, negative, or neutral. 
