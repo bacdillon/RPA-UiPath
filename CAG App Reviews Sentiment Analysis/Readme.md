@@ -8,7 +8,7 @@ It’s humanly impossible to manually go through each online review, assign an a
 ## Properties Output <br>
 Overall Sentiment - Contains the sentiment score and label:<br>
 <pre>Very Negative: -99 to -67</pre><br>
-<pre>Negative: -66 to -34</pre><br>
+<pre>Negative: -66 to -34</pre>
 <pre>Slightly Negative: -33 to -1</pre><br>
 <pre>Neutral: 0</pre><br>
 <pre>Slightly Positive: 1 to 33</pre><br>
