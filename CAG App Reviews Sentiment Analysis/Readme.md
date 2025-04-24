@@ -5,9 +5,7 @@ It’s humanly impossible to manually go through each online review, assign an a
 
 ## CAG App Reviews Sentiment Analysis using GenAI Sentiment Analysis
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/GenAI%20Sentiment%20Analysis.jpg)
-![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/video-player.png)
-
-![alt_text](https://vimeo.com/1078179667/76c54ce610)
+![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/CAG%20App%20Reviews%20Sentiment%20Analysis/img/video-player.png)![alt_text](https://vimeo.com/1078179667/76c54ce610)
 
 ## Properties Output <br>
 <B>Overall Sentiment - Contains the sentiment score and label:</B>
