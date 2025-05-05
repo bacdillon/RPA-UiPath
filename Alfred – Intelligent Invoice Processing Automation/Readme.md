@@ -1,4 +1,6 @@
 ## Alfred – Intelligent Invoice Processing Automation
+## Watch Alfred in Action 👇	
+![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/Alfred%20%E2%80%93%20Intelligent%20Invoice%20Processing%20Automation/DU.gif)
 **1.RE-Framework- Initiations** <br>
 The initial state begin to read the settings, the configuration data stored in the dictionary, initialize applications, and close all the unnecessary applications.  
 If there is an error while initializing, an exception handling mechanism is activated, where implemented throughout the framework and end the process.
@@ -45,26 +47,8 @@ The process move Summary Report to Archive\ SummaryReport folder with today date
 
 Once archives completed, attach the compiled and generated with the processing status Summary report who have assigned to the cases with the invoices to be process.
 
-## Watch Alfred in Action 👇	
-![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/Alfred%20%E2%80%93%20Intelligent%20Invoice%20Processing%20Automation/DU.gif)
 
 
-**Process Flow Description** <br>
-The process has been selected for RPA as part of the larger project initiative conducted within ACME
-Systems Inc., the Finance and Accounting department.
-
-The objective of this process automation is linked to the project business case and is mainly intended to:
-Deliver faster processing
-Reduce redundant activities
-Improve overall performance and reliability.
-
-**Business process to automate** <br>
-1) Login to ACME application <br>
-2) Navigate Invoice search invoices screen <br>
-3) Click display all invoices <br>
-4) Extract all invoice information <br>
-5) Get only Invoice No, Vendor Tax ID, Invoice Date <br>
-6) Store the above 3 values into the orchestrator queue (invoice_details) for further processing <br>
 
 
 
