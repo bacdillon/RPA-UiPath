@@ -1,5 +1,5 @@
 ## Alfred – Intelligent Invoice Processing Automation
-![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/Alfred%20%E2%80%93%20Intelligent%20Invoice%20Processing%20Automation/DU.gif) <br>
+![IMAGE ALT TEXT HERE](https://vimeo.com/1078179667/76c54ce610?share=copy) <br>
 
 **Process Flow Description**<br>
 1. REFramework Initiation -
