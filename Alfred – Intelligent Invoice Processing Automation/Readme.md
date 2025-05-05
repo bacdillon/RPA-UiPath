@@ -1,4 +1,4 @@
-## Alfred Bot - Extract Invoice information & store data in Orchestrator
+## Alfred – Intelligent Invoice Processing Automation
 **Objective** <br>
 The process has been selected for RPA as part of the larger project initiative conducted within ACME
 Systems Inc., the Finance and Accounting department.
