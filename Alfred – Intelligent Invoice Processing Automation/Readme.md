@@ -1,7 +1,7 @@
 ## Alfred – Intelligent Invoice Processing Automation
 ![IMAGE ALT TEXT HERE](https://vimeo.com/1081363310?share=copy#t=0)
 ![alt_text](<a href="https://vimeo.com/1081363310?share=copy#t=0">Alfred in action</a>)
-<a href="https://vimeo.com/1081363310?share=copy#t=0">Alfred in action</a>
+
 
 **Process Flow Description**
 1. REFramework Initiation -
