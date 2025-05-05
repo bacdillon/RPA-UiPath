@@ -14,16 +14,16 @@ Loads invoice files, digitizes using OCR, classifies using Keyword Classifier, e
 4. Consolidate Export Invoice
 Reads exported files, creates headers, appends data into SummaryReport.xlsx in Summary folder. Deletes temporary formatted sheets.
 
-5. REFramework - Get Transaction Data
+5. REFramework Get Transaction Data -
 Uses DataRow (not QueueItem) for transaction items. Retrieves rows from DataTable after app initialization.
 
-6. REFramework - Process Transaction
+6. REFramework Process Transaction -
 Validates data. If Invoice No. or Bill To is missing, triggers Business Rule Exception and sends email. Enters data in CRM. Ends if no data remains.
 
-7. REFramework - Set Transaction Status
+7. REFramework Set Transaction Status -
 Sets each transaction’s status (Success, Business, or System Exception). Logs status in Summary Report before moving to next item.
 
-8. REFramework - End Process
+8. REFramework End Process -
 Closes applications, moves SummaryReport.xlsx to archive with today's date, formats report, archives all files, and emails final report to relevant stakeholders.
 
 
