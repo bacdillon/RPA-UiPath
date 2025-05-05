@@ -1,7 +1,8 @@
 ## Alfred – Intelligent Invoice Processing Automation
-![IMAGE ALT TEXT HERE](title="vimeo-player" src="https://player.vimeo.com/video/1081363310?h=49f9975e14" width="640" height="360" frameborder="0" allowfullscreen>) <br>
+(src="https://player.vimeo.com/video/1081363310?h=49f9975e14" width="640" height="360" frameborder="0" allowfullscreen>) <br>
 
-**Process Flow Description**<br>
+**Process Flow De![IMAGE ALT TEXT HERE](title="vimeo-player" src="https://player.vimeo.com/video/1081363310?h=49f9975e14" width="640" height="360" frameborder="0" allowfullscreen>) <br>
+scription**<br>
 1. REFramework Initiation -
 Initializes configuration settings, opens required apps, and closes unnecessary ones. On error, exception handling ends the process.
 
