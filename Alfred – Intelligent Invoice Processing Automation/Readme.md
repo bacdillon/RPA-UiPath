@@ -26,7 +26,7 @@ Sets each transaction’s status (Success, Business, or System Exception). Logs 
 8. REFramework End Process -
 Closes applications, moves SummaryReport.xlsx to archive with today's date, formats report, archives all files, and emails final report to relevant stakeholders.
 
-![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/ACME%20Invoice-Processing/documents/ACME%20Invoice%20Processing.jpg)
+![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/Alfred%20%E2%80%93%20Intelligent%20Invoice%20Processing%20Automation/img/summary.jpg)
 
 
 
