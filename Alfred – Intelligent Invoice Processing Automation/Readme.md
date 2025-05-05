@@ -1,9 +1,7 @@
 ## Alfred – Intelligent Invoice Processing Automation
+![IMAGE ALT TEXT HERE](https://vimeo.com/1081363310?share=copy#t=0)
 
 **Process Flow Description**
-![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/ACME%20Invoice-Processing/documents/UiPath-Processing-Invoice.gif)
-[IMAGE ALT TEXT HERE](title="vimeo-player" src="https://player.vimeo.com/video/1081363310?h=49f9975e14" width="640" height="360" frameborder="0" allowfullscreen>) <br>
-
 1. REFramework Initiation -
 Initializes configuration settings, opens required apps, and closes unnecessary ones. On error, exception handling ends the process.
 
