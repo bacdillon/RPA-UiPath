@@ -1,5 +1,5 @@
 ## Alfred – Intelligent Invoice Processing Automation
-1. RE-Framework- Initiations
+**1. RE-Framework- Initiations**
 The initial state begin to read the settings, the configuration data stored in the dictionary, initialize applications, and close all the unnecessary applications.  
 
 If there is an error while initializing, an exception handling mechanism is activated, where implemented throughout the framework and end the process.
@@ -71,17 +71,5 @@ Improve overall performance and reliability.
 5) Get only Invoice No, Vendor Tax ID, Invoice Date <br>
 6) Store the above 3 values into the orchestrator queue (invoice_details) for further processing <br>
 
-**Description of the Project**<br>
-**Steps    Short Description** <br>
-1.1 Open the ACME System 1 Web Application <br>
-1.2 Log in to System 1. Required input data: email and p assword. <br>
-1.3 Access the Dashboard - the central location, where the user can pick a specific menu item.<br>
-1.4 Access the Invoice Items listing to view all the invoices (Display All Invoices) <br>
-1.5 Get only Invoice No, Vendor Tax ID, Invoice Date <br>
-1.6 Store the above 3 values into the orchestrator <br>
-
-**Process Flow Chart**<br>
-
-![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/ACME%20Invoice-Processing/documents/ACME%20Invoice%20Processing.jpg)
 
 
