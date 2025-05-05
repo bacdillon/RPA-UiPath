@@ -2,7 +2,7 @@
 ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/Alfred%20%E2%80%93%20Intelligent%20Invoice%20Processing%20Automation/DU.gif) <br>
 
 **Process Flow Description**<br>
-1. REFramework - Initiation
+1. REFramework Initiation -
 Initializes configuration settings, opens required apps, and closes unnecessary ones. On error, exception handling ends the process.
 
 2. Email Processing
