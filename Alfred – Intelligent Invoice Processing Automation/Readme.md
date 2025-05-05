@@ -1,6 +1,7 @@
 ## Alfred – Intelligent Invoice Processing Automation
 
 **Process Flow Description**
+![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/ACME%20Invoice-Processing/documents/UiPath-Processing-Invoice.gif)
 [IMAGE ALT TEXT HERE](title="vimeo-player" src="https://player.vimeo.com/video/1081363310?h=49f9975e14" width="640" height="360" frameborder="0" allowfullscreen>) <br>
 
 1. REFramework Initiation -
