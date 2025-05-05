@@ -1,7 +1,7 @@
 ## Alfred – Intelligent Invoice Processing Automation
 ## Alfred in Action 👇	
 ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/Alfred%20%E2%80%93%20Intelligent%20Invoice%20Processing%20Automation/DU.gif) <br>
-
+**Process Flow Description**<br>
 **1.RE-Framework- Initiations** <br>
 The initial state begin to read the settings, the configuration data stored in the dictionary, initialize applications, and close all the unnecessary applications.  
 If there is an error while initializing, an exception handling mechanism is activated, where implemented throughout the framework and end the process.
