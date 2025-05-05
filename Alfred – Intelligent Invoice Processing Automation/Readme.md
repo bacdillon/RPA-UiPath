@@ -1,4 +1,10 @@
 ## Alfred – Intelligent Invoice Processing Automation
+![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/ServiceNow%20Integration/img/1.jpg)
+
+- [x] 1. Alfred in action (https://vimeo.com/1081363310?share=copy#t=0")
+- [x] 2. ServiceNow Incident (https://youtu.be/dW5v2IagOM8)
+- [x] 3. Chabot Integration 👇
+
 <a href="https://vimeo.com/1081363310?share=copy#t=0">Alfred in action</a>
 
 **Process Flow Description**
