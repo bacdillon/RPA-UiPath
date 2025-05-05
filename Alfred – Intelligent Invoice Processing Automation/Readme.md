@@ -5,13 +5,13 @@
 1. REFramework Initiation -
 Initializes configuration settings, opens required apps, and closes unnecessary ones. On error, exception handling ends the process.
 
-2. Email Processing
+2. Email Processing -
 Monitors inbox for subject "Invoice Entry Request for Processing - [Today’s Date]". Downloads attachments to Files\Invoice. Skips if no email or on failure.
 
-3. Intelligent Document Processing
+3. Intelligent Document Processing -
 Loads invoice files, digitizes using OCR, classifies using Keyword Classifier, extracts data via ML Extractor. Sends to Validation Station if needed. Exports to Datasets_Extraction and readable format in Export folder.
 
-4. Consolidate Export Invoice
+4. Consolidate Export Invoice -
 Reads exported files, creates headers, appends data into SummaryReport.xlsx in Summary folder. Deletes temporary formatted sheets.
 
 5. REFramework Get Transaction Data -
