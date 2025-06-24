@@ -1,6 +1,6 @@
-## UiPath integrate with ServiceNow, Chatbot and Streamlit
-**Objective** <br>
-The scenario of how we can use ServiceNow with UiPath. It can be used in fusion with RPA (Robotic Process Automation) to bring many business benefits like integrating heterogeneous platforms through unified workflows, and automatically resolving incidents and IT and non-IT requests.
+## UiPath integrate with ServiceNow, Chatbot using Copilot Studio Agent and Streamlit
+Designed and deployed an AI-powered IT support chatbot using Microsoft Copilot Studio to automate common service desk interactions.
+Integrated with ServiceNow and RPA tools to automate ticket creation, status updates, and backend database tasks — improving response time and reducing manual workload in application support.
 
 ![alt_text](https://github.com/bacdillon/RPA-UiPath/blob/main/ServiceNow%20Integration/img/1.jpg)
 
