@@ -4,7 +4,7 @@ Integrated with ServiceNow and RPA tools to automate ticket creation, status upd
 
 - [x] 1. CSM IT Service Request System (https://vimeo.com/1096167084?share=copy)
 - [x] 2. ServiceNow Incident (https://vimeo.com/1096167868?share=copy)
-- [x] 3. Chabot Integration
+- [x] 3. Chabot Integration 👇 
       
 ## Instruction
 1. Launch the chat window <br>
